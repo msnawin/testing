@@ -1,3 +1,0 @@
-username = nawin
-password = nawin
-the reason i am creating the project is to test this in the github
